@@ -1,2 +1,2 @@
 # hello-world
-A playground to store and organize ideas
+A playground-like repository to store, organize and discuss ideas.
